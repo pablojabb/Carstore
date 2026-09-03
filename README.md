@@ -1,3 +1,4 @@
+
 #  CarStore
 
 A desktop-based **Point of Sale (POS) and Car Management System** built with **Java** and **MySQL**. CarStore provides a simple interface for browsing vehicles, managing products, handling customer purchases, and keeping transaction records.
@@ -26,7 +27,7 @@ A desktop-based **Point of Sale (POS) and Car Management System** built with **J
 
 An animated showcase provides a more interactive way of presenting vehicles, combining visual animation with sound.
 
-https://github.com/user-attachments/assets/REPLACE-WITH-UPLOADED-VIDEO
+[demo.webm](https://github.com/user-attachments/assets/f2ec63ac-9c28-4a34-a0f5-ee1f14bfcadd)
 
 > GitHub README files do not reliably render repository `.webm` files directly. For the best preview, upload `readme-assets/demo.webm` to a GitHub issue, pull request, or README editor, then paste the generated GitHub attachment URL above.
 
